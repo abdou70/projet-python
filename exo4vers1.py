@@ -1,0 +1,5 @@
+x=input("veuillez la valeur du réél x")
+x=float(x)
+n=input("veuillez la puissance de n")
+n=int(n)
+print("x à la puissance n est :",pow(x,n))
